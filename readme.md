@@ -1,3 +1,7 @@
+Did not get very far to due time spent trying to debug errors, including this one: "Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https, chrome-extension-resource." I believe I created this error by trying to fix another error by renaming some of my files which I think was initially caused by not creating the initial route before the very first step. (I was not clear what the instructions were asking so I skipped it) I'm hoping to continue working on this tonight if I finish the homework for this evening with enough time.
+
+
+
 #Training: Express Routing Practice
 
 ### Deliverable
